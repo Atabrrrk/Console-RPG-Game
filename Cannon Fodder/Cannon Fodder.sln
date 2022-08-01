@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cannon Fodder", "Cannon Fodder\Cannon Fodder.csproj", "{1521EA48-E43F-48DC-A752-5AD2A5E0E83E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1BCF5A0-2EA5-4376-AC1F-F031433ABB82}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1521EA48-E43F-48DC-A752-5AD2A5E0E83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1521EA48-E43F-48DC-A752-5AD2A5E0E83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1521EA48-E43F-48DC-A752-5AD2A5E0E83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1521EA48-E43F-48DC-A752-5AD2A5E0E83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B732AFCD-AD1E-460A-8F9F-723B5E3B9F6D}
+	EndGlobalSection
+EndGlobal
